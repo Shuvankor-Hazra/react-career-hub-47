@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/s2LVZHd/facebook.jpg",
+        "job_title": "Software Developer",
+        "company_name": "Tech Solutions Ltd.",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full-time",
+        "salary": "$70,000 - $90,000",
+        "job_description": "We are looking for a talented software developer to join our team...",
+        "job_responsibility": [
+            "Develop high-quality software solutions",
+            "Collaborate with cross-functional teams to define, design, and ship new features",
+            "Conduct software analysis, programming, testing, and debugging"
+        ],
+        "education_requirement": "Bachelor's degree in Computer Science or related field",
+        "experience": "Minimum of 2 years of relevant experience",
+        "contact_info": {
+            "phone": "123-456-7890",
+            "email": "hr@techsolutions.com",
+            "address": "123 Main Street, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": 2,
+        "logo": "https://i.ibb.co/8jbJj9Q/twitter.jpg",
+        "job_title": "Data Analyst",
+        "company_name": "Data Insights LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "New York City, USA",
+        "job_type": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "job_description": "Data Insights LLC is seeking a skilled data analyst to join our team...",
+        "job_responsibility": [
+            "Analyze large datasets to extract actionable insights",
+            "Create data visualizations and reports to communicate findings to stakeholders",
+            "Develop and maintain data pipelines"
+        ],
+        "education_requirement": "Bachelor's degree in Statistics, Mathematics, or related field",
+        "experience": "Minimum of 1 year of experience in data analysis",
+        "contact_info": {
+            "phone": "987-654-3210",
+            "email": "careers@datainsights.com",
+            "address": "456 Elm Street, New York City, USA"
+        }
+    },
+    {
+        "id": 3,
+        "logo": "https://i.ibb.co/92Z9m3P/g.jpg",
+        "job_title": "Frontend Developer",
+        "company_name": "WebTech Solutions Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "London, UK",
+        "job_type": "Contract",
+        "salary": "Negotiable",
+        "job_description": "WebTech Solutions Inc. is seeking a talented frontend developer...",
+        "job_responsibility": [
+            "Implement user-friendly interfaces based on provided designs",
+            "Optimize web applications for maximum speed and scalability",
+            "Collaborate with back-end developers and designers to improve usability"
+        ],
+        "education_requirement": "Bachelor's degree in Computer Science or related field",
+        "experience": "Minimum of 2 years of experience in frontend development",
+        "contact_info": {
+            "phone": "111-222-3333",
+            "email": "jobs@webtechsolutions.com",
+            "address": "789 Oak Avenue, London, UK"
+        }
+    },
+    {
+        "id": 4,
+        "logo": "https://i.ibb.co/JtrXmmt/t.jpg",
+        "job_title": "Marketing Manager",
+        "company_name": "Growth Marketing Agency",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, USA",
+        "job_type": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "Join our team as a marketing manager and drive growth for our clients...",
+        "job_responsibility": [
+            "Develop and execute marketing strategies to drive customer acquisition and retention",
+            "Analyze market trends and competitors to identify opportunities",
+            "Manage marketing campaigns across various channels"
+        ],
+        "education_requirement": "Bachelor's degree in Marketing, Business, or related field",
+        "experience": "Minimum of 3 years of experience in marketing management",
+        "contact_info": {
+            "phone": "555-123-4567",
+            "email": "careers@growthmarketingagency.com",
+            "address": "101 Market Street, San Francisco, USA"
+        }
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/1sc0n94/linke-din.jpg",
+        "job_title": "Graphic Designer",
+        "company_name": "Creative Designs Ltd.",
+        "remote_or_onsite": "Onsite",
+        "location": "Sydney, Australia",
+        "job_type": "Part-time",
+        "salary": "$30 - $40 per hour",
+        "job_description": "Creative Designs Ltd. is seeking a creative graphic designer...",
+        "job_responsibility": [
+            "Create visually appealing designs for various marketing materials",
+            "Collaborate with clients and stakeholders to understand design requirements",
+            "Produce high-quality graphics using design software"
+        ],
+        "education_requirement": "Bachelor's degree in Graphic Design or related field",
+        "experience": "Minimum of 2 years of experience in graphic design",
+        "contact_info": {
+            "phone": "123-456-7890",
+            "email": "hr@creativedesigns.com",
+            "address": "567 Park Street, Sydney, Australia"
+        }
+    },
+    {
+        "id": "6",
+        "logo": "https://i.ibb.co/wwD4C7R/hulu.jpg",
+        "job_title": "Human Resources Manager",
+        "company_name": "HR Solutions Group",
+        "remote_or_onsite": "Onsite",
+        "location": "Paris, France",
+        "job_type": "Full-time",
+        "salary": "€60,000 - €80,000",
+        "job_description": "HR Solutions Group is hiring a human resources manager to lead our HR team...",
+        "job_responsibility": [
+            "Develop and implement HR strategies and policies",
+            "Oversee recruitment and onboarding processes",
+            "Provide guidance and support to employees on HR-related matters"
+        ],
+        "education_requirement": "Bachelor's degree in Human Resources Management or related field",
+        "experience": "Minimum of 5 years of experience in HR management",
+        "contact_info": {
+            "phone": "+33 123-456-789",
+            "email": "careers@hrsolutionsgroup.com",
+            "address": "789 Boulevard Haussmann, Paris, France"
+        }
+    }
+]
